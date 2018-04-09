@@ -4,7 +4,7 @@
   :url "http://example.com/FIXME"
   :license {:name "Apache-2.0"}
   :vcs :git
-  :dependencies [[com.atomist/automation-client-clj "0.3.15"]
+  :dependencies [[com.atomist/automation-client-clj "0.3.13"]
 
                  ;; logging
                  [io.clj/logging "0.8.1"]
