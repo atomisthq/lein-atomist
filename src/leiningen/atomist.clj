@@ -15,7 +15,7 @@
                                     }
                                   }
                                 }"}}
-pushes-to-repo
+  pushes-to-repo
   [event]
   (println "A push!"))
 
