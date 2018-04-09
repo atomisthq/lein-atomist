@@ -1,0 +1,4 @@
+{
+ :automation-namespaces ["leiningen.atomist"]
+ ;:dev-mode true
+ }
